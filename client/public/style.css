@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body #app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body #app .container {
+  padding: 2px;
+  padding-top: 16px;
+  width: 500px;
+}
+
+body #app .container .chart {
+  width: 300px;
+  height: 300px;
+  margin: auto;
+}
+
+body #app .container .bottom {
+  display: block;
+  margin-top: 200px;
+}
+
+body #app .container .bottom .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body #app .container .bottom .container button {
+  display: inline-block;
+  text-align: center;
+  color: #fff;
+  width: 72px;
+  height: 42px;
+  border: none;
+  border-radius: 3px;
+  margin: auto;
+}
+
+.redBg {
+  background-color: red;
+  border-radius: 51px;
+  color: white;
+  padding: 5px;
+}

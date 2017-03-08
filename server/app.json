@@ -1,0 +1,12 @@
+{
+  "name": "React Redux demo app",
+  "description": "This is a demo app",
+  "repository": "https://github.com/heroku/node-js-getting-started",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": [
+    "React",
+    "Redux",
+    "Web socket"
+  ],
+  "image": "heroku/nodejs"
+}

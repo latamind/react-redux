@@ -1,4 +1,4 @@
-# react-redux-demo
+# react-redux-demo client
 Simple Pie chart based on React Redux with web socket 
 
 ### To run

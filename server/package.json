@@ -1,0 +1,23 @@
+{
+  "name": "react-redux-demo",
+  "version": "0.2.5",
+  "description": "A sample pie chart app based React and Redux with realtime update",
+  "engines": {
+    "node": "7.6.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "2.4.1",
+    "express": "4.13.3",
+    "socket.io": "^1.7.3"
+  },
+  "keywords": [
+    "React",
+    "Redux",
+    "Web socket"
+  ],
+  "license": "MIT"
+}
