@@ -7,7 +7,7 @@ Simple Pie chart based on React Redux with web socket
 * Fork and clone the project:
 
 ```
-git clone https://github.com/latamind/reat-redux.git
+git clone https://github.com/latamind/react-redux.git
 ```
 
 * Then install the dependencies:
